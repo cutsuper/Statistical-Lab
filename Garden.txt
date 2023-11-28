@@ -1,0 +1,5 @@
+name	tomato	zucchini	peas	grapes
+gregor	10	2	40	0
+molly	15	5	10	1000
+luther	50	10	15	50
+susan	20	0		20
